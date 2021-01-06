@@ -1,0 +1,22 @@
+newmtl DeadTrees_DarkTrunk
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1
+map_Kd tree_DeadTrees_DarkTrunk.jpg
+
+newmtl DeadTrees_Endbranch
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1
+map_Kd tree_DeadTrees_Endbranch.jpg
+
+newmtl NO_MATERIAL
+Ka 1.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1
